@@ -1,0 +1,6 @@
+@munavvar_HostAddress = http://localhost:5228
+
+GET {{munavvar_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
